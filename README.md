@@ -1,5 +1,5 @@
 # Supercell Anim Fixer
-A tool which allows you to fix .glb animations from brawl stars(may other games also) to version v43(Janet And Bonnie update), after this update(Otis update),
+A tool which allows you to fix error, when you try to import in blender .glb animations from brawl stars(may other games also) to version v43(Janet And Bonnie update), after this update(Otis update),
 they fixed their Supercell GLTFPack which was issue
 
 How to use?
