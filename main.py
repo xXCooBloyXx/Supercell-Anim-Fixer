@@ -22,7 +22,7 @@ for glb_file in glb_files:
 				print(f"Succesfully fixed {glb_file}!")
 			except Exception as e1:
 				print(f"Can't save {glb_file}! Error: {e1}")
-				quit()
+				pass
 	except Exception as e2:
 		print(f"Can't fix {glb_file}! Error: {e2}")
 print("Done!")
